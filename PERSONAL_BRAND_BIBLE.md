@@ -664,22 +664,25 @@ Rules:
 
 ## 37. README Standards
 
-Every README must include:
+Every README must follow the detailed [`README_STANDARD.md`](./README_STANDARD.md) and the [`PROJECT_STORY_FRAMEWORK.md`](./PROJECT_STORY_FRAMEWORK.md).
+
+At minimum, every README must include:
 
 1. Project name and one-line description
 2. Problem statement
-3. Solution overview
-4. Key features
-5. Screenshots or demo
-6. Architecture
-7. Installation
-8. Usage
-9. Roadmap
-10. FAQ
-11. Contributing
-12. License
+3. Why I built it
+4. Solution overview
+5. Key features
+6. Screenshots or demo
+7. Architecture
+8. Installation
+9. Usage
+10. Roadmap
+11. FAQ
+12. Contributing
+13. License
 
-Style: clear, honest, no clichés. Write as if for Linear or Vercel.
+Style: clear, honest, no clichés. Write as if for Linear or Vercel. No mentions of "portfolio" or "admission" in project READMEs.
 
 ## 38. Documentation Standards
 
