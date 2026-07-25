@@ -92,7 +92,23 @@ The story is not "I want to get into university." The story is "I encountered re
 - **Documentation is code.** If it is not documented, it is not done.
 - **Systems over hacks.** Build reusable patterns, not one-time fixes.
 
-### 6.2 Decision-Making Principles
+### 6.2 Product Principles
+
+- **Never build features before validating the problem.** Every feature must solve a real need.
+- **One solved problem is better than ten unfinished ideas.** Finish before starting new things.
+- **Software should reduce cognitive load.** Interfaces should be obvious, not impressive.
+- **The user is a real person.** Design for actual behavior, not ideal scenarios.
+- **Ship small, ship often.** A working MVP is more valuable than a perfect plan.
+
+### 6.3 Learning Principles
+
+- **Every project must teach something new.** If there is no new skill, the project is not worth building.
+- **Document every important lesson.** Knowledge compounds when it is written down.
+- **Mistakes become documentation.** What went wrong is as valuable as what went right.
+- **Teach to learn.** Explaining a concept in writing reveals gaps in understanding.
+- **Knowledge compounds.** Small consistent learnings add up over years.
+
+### 6.4 Decision-Making Principles
 
 Before any major decision, ask:
 
@@ -104,7 +120,7 @@ Before any major decision, ask:
 
 If the answer to any of these is unclear, pause and revisit.
 
-### 6.2 Quality Standards
+### 6.5 Quality Standards
 
 - Every public repository must have a complete README.
 - Every project must have a clear problem statement.
@@ -112,7 +128,7 @@ If the answer to any of these is unclear, pause and revisit.
 - Every text must be natural, clear, and free of clichés.
 - Every shipped product must feel finished, even if the feature set is small.
 
-### 6.3 What We Never Build
+### 6.6 What We Never Build
 
 - Projects created only to impress universities.
 - Features that do not solve a real problem.
@@ -120,6 +136,26 @@ If the answer to any of these is unclear, pause and revisit.
 - README files that say "This is my portfolio project."
 - Copy that sounds like generic marketing.
 - Logos, colors, or layouts that do not match the design system.
+
+### 6.7 Anti-Goals
+
+I do **not** optimize for:
+
+- Viral GitHub stars.
+- AI hype.
+- Flashy landing pages.
+- Fake productivity.
+- Empty certificates.
+- The approval of people who do not understand the work.
+
+I **do** optimize for:
+
+- Real products that solve real problems.
+- Deep understanding of what I build.
+- Consistency over time.
+- Clear documentation.
+- Long-term growth.
+- Work I can explain honestly.
 
 ## 7. Narrative
 
