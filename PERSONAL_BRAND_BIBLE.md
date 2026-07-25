@@ -148,6 +148,20 @@ I do **not** optimize for:
 - Empty certificates.
 - The approval of people who do not understand the work.
 
+### 6.8 Privacy and Security
+
+- Never commit real secrets, passwords, API keys, or tokens.
+- Use `.env.example` files, never `.env` with real values.
+- Keep personal application materials private:
+  - University application drafts
+  - CV drafts
+  - LinkedIn profile drafts
+  - Motivation letter drafts
+  - Private contact information
+- Store private drafts in a `_private/` folder or outside public repositories.
+- Add `_private/` and `*.private.md` to `.gitignore`.
+- Review every commit before pushing to a public repository.
+
 I **do** optimize for:
 
 - Real products that solve real problems.
