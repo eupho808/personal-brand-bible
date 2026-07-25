@@ -127,7 +127,7 @@ When possible, connect the project to other projects:
 - AI English Journey came from a personal need.
 - WalletGuard Pro came from a real security concern.
 - AI Project Architect Design came from the need to structure ideas into real products.
-- All of them are documented in the Personal Brand Bible.
+- All of them are documented in the Personal Operating Manual.
 
 ---
 
@@ -221,4 +221,4 @@ Before publishing any project story:
 
 ---
 
-*This framework is part of the [Personal Brand Bible](https://github.com/eupho808/personal-brand-bible). Every project story must follow it.*
+*This framework is part of the [Personal Operating Manual](https://github.com/eupho808/personal-brand-bible). Every project story must follow it.*

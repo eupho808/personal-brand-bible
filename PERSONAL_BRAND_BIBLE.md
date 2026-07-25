@@ -82,7 +82,17 @@ The story is not "I want to get into university." The story is "I encountered re
 
 ## 6. Principles
 
-### 6.1 Decision-Making Principles
+### 6.1 Engineering Principles
+
+- **AI as augmentation, not replacement.** AI helps implement, but product thinking is human.
+- **Offline first.** Products should work without constant connectivity when possible.
+- **Privacy first.** User data stays local unless explicitly shared.
+- **Simple beats clever.** Prefer clear solutions over impressive complexity.
+- **Readable beats short.** Code and documentation must be understandable.
+- **Documentation is code.** If it is not documented, it is not done.
+- **Systems over hacks.** Build reusable patterns, not one-time fixes.
+
+### 6.2 Decision-Making Principles
 
 Before any major decision, ask:
 

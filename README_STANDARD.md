@@ -236,4 +236,4 @@ Before marking a README as complete:
 
 ---
 
-*This standard is part of the [Personal Brand Bible](https://github.com/eupho808/personal-brand-bible). Update this document before changing README style across the ecosystem.*
+*This standard is part of the [Personal Operating Manual](https://github.com/eupho808/personal-brand-bible). Update this document before changing README style across the ecosystem.*

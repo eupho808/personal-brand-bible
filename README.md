@@ -1,6 +1,8 @@
-# Personal Brand Bible
+# Personal Operating Manual
 
 > Operating system for my digital ecosystem as an AI Product Builder.
+
+Internal name: Personal Brand Bible.
 
 **Owner:** Maxim  
 **Version:** 1.0  
@@ -13,6 +15,8 @@
 This repository contains the single source of truth for my personal brand, digital presence, product portfolio, and university admission strategy.
 
 It guides every public asset I create: GitHub repositories, personal website, LinkedIn, portfolio, CV, pitch decks, blog posts, and university applications.
+
+Publicly, I refer to it as my **Personal Operating Manual**.
 
 ## Core Positioning
 
