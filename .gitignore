@@ -3,3 +3,10 @@
 Thumbs.db
 node_modules/
 .env
+
+# Private drafts and personal application materials
+_private/
+LINKEDIN_PROFILE.md
+CV_DRAFT.md
+APPLICATION_DRAFTS.md
+*.private.md
